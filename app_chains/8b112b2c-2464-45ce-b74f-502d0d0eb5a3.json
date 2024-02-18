@@ -1,0 +1,8 @@
+{
+  "name": "applepine",
+  "logo": "https://i.imgur.com/d64aEe1.jpeg",
+  "rpc_url": "http://43.156.133.5:9944",
+  "explorer_url": "http://43.156.133.5:4000",
+  "metrics_endpoint": "http://43.156.133.5:9615/metrics",
+  "id": "8b112b2c-2464-45ce-b74f-502d0d0eb5a3"
+}
